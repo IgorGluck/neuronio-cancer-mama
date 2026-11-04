@@ -41,7 +41,7 @@ python neuronio.py
 
 ## Resultados
 
-Acurácia no conjunto de teste (114 pacientes): **XX,XX%**
+Acurácia no conjunto de teste (114 pacientes): **96,49%**
 
 Hiperparâmetros usados: taxa de aprendizado `0.01` e `1000` épocas.
 
